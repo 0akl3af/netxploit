@@ -17,7 +17,7 @@ Port Checker
 ### Screenshot:
 [x](https://github.com/xolvaid/netxploit/blob/main/ss.jpg)
 
-### How To Use?, Paste The Following Codes To Your Terminal
+### How To Use?, Paste The Following Commands To Your Terminal
 ```
 apt install git && apt install python3 -y && pip install requests && pip install bs4 && git clone https://github.com/XolvaID/netxploit.git && cd netxploit && python3 netxploit.py 
 ```
