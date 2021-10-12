@@ -22,6 +22,7 @@ Port Checker
 apt install git && apt install python3 -y && pip install requests && pip install bs4 && git clone https://github.com/XolvaID/netxploit.git && cd netxploit && python3 netxploit.py 
 ```
 ### OR
+```
 apt install git
 apt install python3 -y
 pip install requests
@@ -29,6 +30,7 @@ pip install bs4
 git clone https://github.com/XolvaID/netxploit.git
 cd netxploit
 python3 netxploit.py
+```
 
 ### Request / Feedback? Contact Me
 <p align="left">
