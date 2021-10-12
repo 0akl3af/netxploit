@@ -15,7 +15,7 @@ Scan Bug
 Port Checker
 ```
 ### Screenshot:
-[x](https://github.com/xolvaid/netxploit/blob/main/ss.jpg)
+![x](https://github.com/xolvaid/netxploit/blob/main/ss.jpg)
 
 ### How To Use?, Paste The Following Commands To Your Terminal
 ```
